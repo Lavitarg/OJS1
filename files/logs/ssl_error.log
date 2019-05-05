@@ -1,0 +1,14 @@
+[Thu Apr 11 13:52:08.358722 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 11 13:52:08.372557 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 11 13:55:47.273487 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 11 13:55:47.376170 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 29 09:06:38.690492 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 29 09:06:38.763495 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 29 09:12:13.445759 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 29 09:12:13.458046 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 29 09:37:38.363887 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 29 09:37:38.377782 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 29 09:38:05.090323 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 29 09:38:05.103240 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 02 14:50:01.392740 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 02 14:50:01.477501 2019] [ssl:warn] [pid 8] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name

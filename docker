@@ -1,0 +1,96 @@
+    1  sudo ufw allow 80/tcp
+    2  cd /home/ojs/ojs
+    3  docker-compose up
+    4  docker-compose up -d
+    5  docker ps
+    6  sudo ufw allow 80/tcp
+    7  sudo ufw status
+    8  sudo apt-get install apache2
+    9  sudo apt-get update apache2
+   10  docker-compose down
+   11  cd /home/ojs/ojs
+   12  docker-compose down
+   13  ls
+   14  ls -s
+   15  ls -l
+   16  cd etc
+   17  cd etc/
+   18  cd /etc
+   19  ls
+   20  cd home
+   21  cd /home
+   22  ls -l
+   23  ls
+   24  зцв
+   25  pwd
+   26  mkdir ojs
+   27  cd ojs
+   28  wget https://raw.githubusercontent.com/lucasdiedrich/ojs/master/docker-compose.yml
+   29  docker-compose up
+   30  git clone https://github.com/lucasdiedrich/ojs.git
+   31  ls
+   32  cd ojs
+   33  docker-compose up
+   34  docker-compose up --iptables=false
+   35  docker ps
+   36  cd /homeojs/ojs
+   37  cd /home/ojs/ojs
+   38  docker-compose up
+   39  docker-compose up -d
+   40  docker ps
+   41  sudo ufw status
+   42  curl 127.0.0.1
+   43  curl 127.0.0.1:8080
+   44  curl 127.0.0.1:8085
+   45  man curl
+   46  curl 127.0.0.1:8085 -d
+   47  sudo ufw disable
+   48  curl 127.0.0.1:80
+   49  docker-compose down
+   50  docker volumes ls
+   51  docker volume ls
+   52  ls
+   53  nano docker-compose.yml
+   54  docker-compose up
+   55  nano docker-compose.yml
+   56  docker-compose up
+   57  nano docker-compose.yml
+   58  docker-compose up
+   59  nano docker-compose.yml
+   60  docker-compose up
+   61  docker-compose down
+   62  docker volume ls
+   63  docker volume prune
+   64  docker-compose up
+   65  ls -l
+   66* 
+   67  cd etc/
+   68  cd home
+   69  cd home/
+   70  cd /home
+   71  cd /ojs
+   72  ls -l
+   73  cd ojs
+   74  ls -l
+   75  cd ojs
+   76  ls
+   77  docker-compose up
+   78  sudo ufw disable
+   79  docker-compose up -d
+   80  docker network
+   81  docker network ls
+   82  docker ps
+   83  curl
+   84  curl --help
+   85  curl 104.248.32.14
+   86  curl 104.248.32.14:8084
+   87  curl 104.248.32.14:8085
+   88  curl 104.248.32.14:8080
+   89  sudo ufw status
+   90  curl 104.248.32.14:2375
+   91  history
+   92  history --help
+   93  docker-compose down
+   94  docker-compose up -iptables=false
+   95* 
+   96  history > docker
